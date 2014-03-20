@@ -3,7 +3,8 @@ randomWeb
 
 Expore the interwebz with a bit of randomness
 
-Requirements:
-- Python2
-- BeautifulSoup
-- urllib2
+Install:
+virtualenv .virtualenv
+source .virtualenv/bin/activate
+pip install -r requirements.txt
+

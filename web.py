@@ -1,4 +1,4 @@
-#! /usr/bin/enx python2
+#! /usr/bin/env python2
 import urllib2
 from BeautifulSoup import BeautifulSoup
 import random
